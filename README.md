@@ -1,6 +1,8 @@
 # E-commerce Marketplace (Template)
 > Tienda en línea multiplataforma, la cual cuenta con un sistema de pagos en línea, cobro de comisión por transición, envió de SMS, registro de tiendas entro otras características
 
+https://www.youtube.com/watch?v=mJKyrIix6hc&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=10
+
 ![](https://i.imgur.com/FfEhmDv.png)
 
 > Puedes ver algunos de nuestros clientes
